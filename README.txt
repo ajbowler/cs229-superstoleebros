@@ -1,6 +1,3 @@
-cs229-superstoleebros
-=====================
-
 COM S 229
 Project 2
 

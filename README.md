@@ -1,6 +1,9 @@
 cs229-superstoleebros
 =====================
 
+#### Running the program
+Clone the repo and run `make`. Then run `./ssbros` plus whatever flags you want. Details on permitted flags can be found here: [Professor Stolee's website](http://orion.math.iastate.edu/dstolee/teaching/14-229/project2/)
+
 #### SIMPLEHERO STRATEGY
 
 I store all of my data in the following static-size arrays:  
